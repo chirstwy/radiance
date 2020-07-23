@@ -901,7 +901,7 @@ public class ColorWheelPanel extends SubstanceColorChooserPanel implements
 
 	@Override
 	public String getDisplayName() {
-		return "Xoetrope Color Wheel";
+		return UIManager.getString("ColorChooser.xoetropeColorWheel");
 	}
 
 	@Override
